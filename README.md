@@ -19,7 +19,7 @@ The tool is open source, so anyone can contribute and develop it further. I am a
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: PHP, Laravel
 - **Database**: MySQL
-- **Tools**: AWS, Git, XAMPP
+- **Tools**: AWS, Git, Laragon
 
 ## 📬 Contact Me
 - ✉️ **Email**: [mhdshofwanard@gmail.com](mailto:mhdshofwanard@gmail.com)
