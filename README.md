@@ -7,9 +7,9 @@ I love exploring new technologies and building things that make a difference.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api?username=mhd-shofwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api?username=mhd-shofwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1"/>
 
-  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api/top-langs/?username=mhd-shofwan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api/top-langs/?username=mhd-shofwan&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 </p>
 
 <p align="center">
