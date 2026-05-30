@@ -4,10 +4,21 @@ I am a **Tech Enthusiast** and **Full-Stack Developer** from Indonesia 🇮🇩,
 
 I love exploring new technologies and building things that make a difference.
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Shofwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhd-shofwan&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api?username=mhd-shofwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
+  <img height="180em" src="https://github-readme-stats-mhd-shofwan-cv.vercel.app/api/top-langs/?username=mhd-shofwan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mhd-shofwan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhd-shofwan&label=Profile%20Views&color=5D3FD3&style=for-the-badge"/>
+</p>
 ## 🚀 Public Projects
 
 ### [MySQL Repair Tools for XAMPP](https://github.com/mhd-shofwan/mysql-repair-tools)
@@ -23,7 +34,8 @@ The tool is open source, so anyone can contribute and develop it further. I am a
 
 ## 📬 Contact Me
 - ✉️ **Email**: [mhdshofwanard@gmail.com](mailto:mhdshofwanard@gmail.com)
-- 📸 **Instagram**: [@mhdshofwan](https://instagram.com/mhdshofwan)
+- 📸 **Instagram**: [@mhd_shofwan](https://instagram.com/mhd_shofwan)
+- 📲 **LinkedIn**: [Muhammad Shofwan Ar Rasyid](https://www.linkedin.com/in/muhammadshofwan/)
 
 ---
 
