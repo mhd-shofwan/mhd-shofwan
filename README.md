@@ -1,8 +1,10 @@
 # Hi, I'm M. Shofwan Ar Rasyid 👨‍💻
 
-I am a **Tech Enthusiast** and **Full-Stack Developer** from Indonesia 🇮🇩, passionate about crafting digital experiences. Currently, I’m learning **AWS** and **Laravel** to further enhance my skills. I'm proficient in **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**.
+I am a passionate Full-Stack Developer from Indonesia 🇮🇩 who loves solving problems through technology.
 
-I love exploring new technologies and building things that make a difference.
+Over the years, I have worked on educational management systems, registration platforms, payment integrations, and WhatsApp-based automation tools. My main technologies include PHP, Laravel, CodeIgniter, JavaScript, MySQL, and Node.js.
+
+I enjoy exploring new technologies, improving development workflows, and learning about cloud computing with AWS.
 
 ## 📊 GitHub Analytics
 
@@ -19,6 +21,7 @@ I love exploring new technologies and building things that make a difference.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhd-shofwan&label=Profile%20Views&color=5D3FD3&style=for-the-badge"/>
 </p>
+
 ## 🚀 Public Projects
 
 ### [MySQL Repair Tools for XAMPP](https://github.com/mhd-shofwan/mysql-repair-tools)
@@ -28,9 +31,18 @@ The tool is open source, so anyone can contribute and develop it further. I am a
 
 ## 🛠 Skills & Technologies
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP, Laravel
+- **Backend**: PHP, Laravel, CodeIgniter
 - **Database**: MySQL
 - **Tools**: AWS, Git, Laragon
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ## 📬 Contact Me
 - ✉️ **Email**: [mhdshofwanard@gmail.com](mailto:mhdshofwanard@gmail.com)
