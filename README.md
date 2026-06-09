@@ -24,6 +24,11 @@ I enjoy exploring new technologies, improving development workflows, and learnin
 
 ## 🚀 Public Projects
 
+### [Absensi Digital (Kajian)](https://github.com/mhd-shofwan/absensi-digital)
+A lightweight, real-time, kiosk-based attendance system designed specifically for Islamic study circles (Kajian). Built with Vanilla JavaScript, Tailwind CSS, and Firebase. 
+
+Features include a specialized Kiosk Mode for unauthenticated participants, Admin device management for security, real-time dashboards, and automated `.xlsx` reporting.
+
 ### [MySQL Repair Tools for XAMPP](https://github.com/mhd-shofwan/mysql-repair-tools)
 This is a simple application based on .bat files designed to fix common problems that occur with MySQL in XAMPP, allowing MySQL to start without issues.
 
