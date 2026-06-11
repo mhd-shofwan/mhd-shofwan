@@ -2,7 +2,7 @@
 
 I am a passionate Full-Stack Developer from Indonesia 🇮🇩 who loves solving problems through technology.
 
-Over the years, I have worked on educational management systems, registration platforms, payment integrations, and WhatsApp-based automation tools. My main technologies include PHP, Laravel, CodeIgniter, JavaScript, MySQL, and Node.js.
+Over the years, I have worked on educational management systems, registration platforms, payment integrations, and WhatsApp-based automation tools. My main technologies include PHP, CodeIgniter, JavaScript, MySQL, and Node.js.
 
 I enjoy exploring new technologies, improving development workflows, and learning about cloud computing with AWS.
 
@@ -50,19 +50,24 @@ The project is open source and aims to provide a quick and practical solution fo
 
 
 ## 🛠 Skills & Technologies
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP, Laravel, CodeIgniter
-- **Database**: MySQL
-- **Tools**: AWS, Git, Laragon
+
+* **Frontend**: HTML5, CSS3, JavaScript, Tailwind CSS, jQuery
+* **Backend**: PHP, CodeIgniter
+* **Database**: MySQL, Firebase Firestore
+* **Tools**: Git, Laragon, Composer, AWS
+* **Libraries**: DataTables, SweetAlert2, PhpSpreadsheet
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
 
 ## 📬 Contact Me
 - ✉️ **Email**: [mhdshofwanard@gmail.com](mailto:mhdshofwanard@gmail.com)
